@@ -2,8 +2,6 @@
 Software Developer => 
 
 HTML/CSS -> JavaScript -> React.js -> Express.js -> Python -> Django
-<!--
-**patrick-gordon/patrick-gordon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently working on ... a personal project called space-tracker
 - 🌱 I’m currently learning ... how to use TypeScript
